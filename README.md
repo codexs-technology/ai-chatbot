@@ -1,3 +1,5 @@
+<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/add17f33-27cf-45f5-941e-df28ef4120a6" />
+
 # AI Chatbot
 
 A modern ChatGPT-style AI chatbot interface built with Next.js, React, TypeScript, and an optional LLM API integration.
