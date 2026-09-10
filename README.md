@@ -1,4 +1,3 @@
-file:///F:/CodesBos%20Portfolio/Ai%20chatbot%20Prot/screencapture-localhost-3000-2026-09-10-05_02_59.pdf
 # AI Chatbot
 
 A modern ChatGPT-style AI chatbot interface built with Next.js, React, TypeScript, and an optional LLM API integration.
