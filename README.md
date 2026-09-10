@@ -1,4 +1,4 @@
-https://github.com/codexs-technology/ai-chatbot/blob/main/screencapture-localhost-3000-login-2026-09-10-05_03_51.png?raw=true
+<img width="1920" height="892" alt="image" src="https://github.com/user-attachments/assets/208f952c-9ab3-447d-a7da-e65d9ddc02e7" />
 
 # AI Chatbot
 
